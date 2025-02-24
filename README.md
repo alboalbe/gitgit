@@ -1,2 +1,2 @@
 # gitgit
-io sono sonia
+io sono Sonia
